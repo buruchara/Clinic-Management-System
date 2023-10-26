@@ -1,0 +1,21 @@
+
+
+**Database Name: hms_code_camp_bd**
+
+**Recommended PHP Version 7.4++**
+
+
+Github Link: https://github.com/
+
+
+**Admin Login Details**
+
+Email   : admin@ccbd.com
+Password: (Password on the YouTube video)
+
+
+**Doctor Login Details**
+
+ID      : ccbd
+Password: (Password on the YouTube video)
+

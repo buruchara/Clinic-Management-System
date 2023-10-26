@@ -1,0 +1,14 @@
+
+
+**Database Name: hms_code_camp_bd**
+
+
+**Admin Login Details**
+
+Email   : admin@ccbd.com
+Password: 
+
+**Doctor Login Details**
+
+ID      : ccbd
+Password: 
